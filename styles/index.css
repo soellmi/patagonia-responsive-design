@@ -1,8 +1,21 @@
 body{
     min-width: 320px;
     max-width: 875px;
+    margin: auto;
 }
 
-header{
-    
+nav{
+min-width: 320px;
+max-width: 875px;
+height: auto;
 }
+
+.nav-icons{
+min-width: 320px;
+max-width: 875px;
+height: 20px;
+display: flex;
+flex-wrap: wrap;
+justify-content: flex-end
+}
+
